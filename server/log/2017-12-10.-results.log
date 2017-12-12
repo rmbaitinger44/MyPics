@@ -1,0 +1,61 @@
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-10T20:00:02.524Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-10T20:00:05.960Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-10T20:00:06.033Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-10T20:00:06.177Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-10T20:27:48.210Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-10T20:27:50.164Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-10T20:27:50.182Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-10T20:27:50.226Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-10T20:57:42.651Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-10T20:57:42.894Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-10T20:57:47.450Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-10T21:05:03.795Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-10T21:05:04.231Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-10T21:05:04.266Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-10T21:05:04.346Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-10T21:05:23.850Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-10T21:05:30.516Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-10T21:09:13.630Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-10T21:09:14.062Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-10T21:09:14.080Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-10T21:09:14.141Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-10T21:09:51.232Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-10T21:20:25.829Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-10T21:22:33.083Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-10T21:33:34.949Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-10T21:33:35.355Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-10T21:33:35.374Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-10T21:33:35.422Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-10T21:35:35.741Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-10T21:35:50.233Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-10T21:35:50.235Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-10T21:40:59.880Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-10T21:41:26.799Z"}
+{"level":"verbose","message":"Create user","timestamp":"2017-12-10T21:41:26.801Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-10T21:41:30.368Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-10T21:41:30.651Z"}
+{"level":"verbose","message":"Get all galleries for 5a2daa062c8da428882a3aaa","timestamp":"2017-12-10T21:41:30.652Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-10T21:44:00.183Z"}
+{"level":"verbose","message":"Get all galleries for 5a2daa062c8da428882a3aaa","timestamp":"2017-12-10T21:44:00.184Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-10T21:44:24.924Z"}
+{"level":"verbose","message":"Get all galleries for 5a2daa062c8da428882a3aaa","timestamp":"2017-12-10T21:44:24.925Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-10T21:49:56.333Z"}
+{"level":"verbose","message":"Get all galleries for 5a2daa062c8da428882a3aaa","timestamp":"2017-12-10T21:49:56.338Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-10T22:14:50.666Z"}
+{"level":"verbose","message":"Get all galleries for 5a2daa062c8da428882a3aaa","timestamp":"2017-12-10T22:14:50.667Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-10T22:21:07.245Z"}
+{"level":"verbose","message":"Get all galleries for 5a2daa062c8da428882a3aaa","timestamp":"2017-12-10T22:21:07.245Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-10T22:22:07.078Z"}
+{"level":"verbose","message":"Get all galleries for 5a2daa062c8da428882a3aaa","timestamp":"2017-12-10T22:22:07.079Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-10T22:24:42.804Z"}
+{"level":"verbose","message":"Get all galleries for 5a2daa062c8da428882a3aaa","timestamp":"2017-12-10T22:24:42.805Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-10T22:27:47.178Z"}
+{"level":"verbose","message":"Get all galleries for 5a2daa062c8da428882a3aaa","timestamp":"2017-12-10T22:27:47.179Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-10T22:28:02.674Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-10T22:28:02.942Z"}
+{"level":"verbose","message":"Get all galleries for 5a2daa062c8da428882a3aaa","timestamp":"2017-12-10T22:28:02.942Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-10T22:28:07.051Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-10T22:28:07.301Z"}
+{"level":"verbose","message":"Get all galleries for 5a2daa062c8da428882a3aaa","timestamp":"2017-12-10T22:28:07.301Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-10T22:28:15.427Z"}
+{"level":"verbose","message":"Create gallery","timestamp":"2017-12-10T22:28:15.433Z"}

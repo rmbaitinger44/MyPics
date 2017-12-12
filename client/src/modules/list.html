@@ -1,0 +1,7 @@
+<template>
+	    <h1>${message}</h1>
+	    <compose show.bind="showList === 'galleryList'" view="./components/galleryList.html"></compose>
+	    <compose show.bind="showList === 'galleryForm'" view="./components/galleryForm.html"></compose>
+		<compose show.bind="showList === 'picList'" view="./components/picList.html"></compose>
+	    <compose show.bind="!showList" view="./components/galleryForm.html"></compose>
+</template>

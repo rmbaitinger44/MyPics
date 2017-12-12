@@ -1,0 +1,59 @@
+<template>
+        <div class="card topMargin">
+            <div class="card-body">
+                <span><i click.trigger="back()" class="fa fa-arrow-left fa-lg" aria-hidden="true"></i></span>
+                <button click.trigger="saveMyPics()" class="btn btn-primary topMargin">Save</button>
+            </div>          
+        </div>
+        
+
+        
+        <div class="row">
+                <div class="col">
+                        <label class="btn btn-secondary">
+                                        Add Pic to gallery&hellip; <input type="file" 
+                                        style="display: none;" 
+                                        change.delegate="changeFiles()" files.bind="files">
+                        </label>
+                </div>	
+                <div class="col-8       ">
+                        <ul>
+                                <li repeat.for="file of filesToUpload" class="list-group-item">
+                                        ${file.name}<span click.delegate="removeFile($index)" 
+                                        class="pull-right"><i class="fa fa-trash" aria-hidden="true">
+                                </i></span></li>
+                        </ul>
+                </div>
+        </div>
+
+        <div show.bind="mypics.picArray.length">
+                <table class="table">
+                        <thead>
+                        <tr>
+                                <th>mypics</th>
+                                <th>Edit</th>
+                                <th>Delete</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr repeat.for = "mypics of mypics.picArray.length">
+                                <td><img src = "http://localhost:5000/uploads/${user._id}/${mypics.file.filename}" 	target="_blank">${mypics.file.originalName}</img> </td>
+                                <td> <label class="btn btn-secondary">
+                                        Edit Pic Location&hellip; <input type="file" 
+                                        style="display: none;" 
+                                        change.delegate="changeFiles()" files.bind="files">
+                                        </label>
+                                
+                                </td>
+                                
+                                          <td>      <i click.trigger="deleteGalleryPics(pic)"class="fa fa-trash rightMargin"   aria-hidden="true"></i>
+                                </td>    
+                        </tr>
+                        </tbody>         
+                </table>
+        </div>
+        
+</template>
+        
+    
+    

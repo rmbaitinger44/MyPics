@@ -1,0 +1,35 @@
+{
+  "name": "mypics",
+  "version": "1.0.0",
+  "description": "mypics project Fall 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmbaitinger44/UWM-810-RMB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmbaitinger44/UWM-810-RMB/issues"
+  },
+  "homepage": "https://github.com/rmbaitinger44/UWM-810-RMB#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.16.2",
+    "glob": "^7.1.2",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-nodemon": "^0.5.4",
+    "grunt-env": "^0.4.4",
+    "jshint-stylish": "^2.2.1",
+    "jsonwebtoken": "^8.1.0",
+    "morgan": "^1.9.0",
+    "passport": "^0.4.0",
+    "passport-jwt": "^3.0.1",
+    "passport-local": "^1.0.0",
+    "winston": "^2.4.0",
+    "winston-daily-rotate-file": "^1.7.2"
+  }
+}
