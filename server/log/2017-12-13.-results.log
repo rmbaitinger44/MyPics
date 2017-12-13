@@ -1,0 +1,67 @@
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-13T00:54:40.963Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-13T00:54:45.592Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-13T00:54:45.654Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-13T00:54:45.878Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-13T00:56:38.911Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-13T00:56:39.754Z"}
+{"level":"verbose","message":"Get all galleries for 5a2daa062c8da428882a3aaa","timestamp":"2017-12-13T00:56:39.756Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-13T00:57:02.397Z"}
+{"level":"verbose","message":"Create pic","timestamp":"2017-12-13T00:57:02.402Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-13T00:57:02.527Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-13T00:57:02.571Z"}
+{"level":"verbose","message":"Upload file for pic 5a307ade85ee6f2b248596aa and 5a2daa062c8da428882a3aaa","timestamp":"2017-12-13T00:57:03.001Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-13T21:22:33.677Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-13T21:22:36.629Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-13T21:22:36.706Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-13T21:22:36.918Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-13T21:24:36.284Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-13T21:24:37.024Z"}
+{"level":"verbose","message":"Get all galleries for 5a2daa062c8da428882a3aaa","timestamp":"2017-12-13T21:24:37.028Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-13T21:24:46.865Z"}
+{"level":"verbose","message":"Create pic","timestamp":"2017-12-13T21:24:46.867Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-13T21:24:46.965Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-13T21:24:47.073Z"}
+{"level":"verbose","message":"Upload file for pic 5a319a9e9605dd2fd4b90bcf and 5a2daa062c8da428882a3aaa","timestamp":"2017-12-13T21:24:47.122Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-13T21:29:56.663Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-13T21:29:57.131Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-13T21:29:57.161Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-13T21:29:57.227Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-13T21:32:06.675Z"}
+{"level":"verbose","message":"Get all galleries for 5a2daa062c8da428882a3aaa","timestamp":"2017-12-13T21:32:06.679Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-13T21:32:13.163Z"}
+{"level":"verbose","message":"Create pic","timestamp":"2017-12-13T21:32:13.198Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-13T21:32:13.279Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-13T21:32:13.306Z"}
+{"level":"verbose","message":"Upload file for pic 5a319c5da8e1c3022c294472 and 5a2daa062c8da428882a3aaa","timestamp":"2017-12-13T21:32:13.497Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-13T21:36:57.458Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-13T21:36:57.885Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-13T21:36:57.906Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-13T21:36:57.952Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-13T21:37:11.216Z"}
+{"level":"verbose","message":"Create pic","timestamp":"2017-12-13T21:37:11.251Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-13T21:37:11.358Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-13T21:37:11.364Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-13T21:37:29.618Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-13T21:37:30.199Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-13T21:37:30.302Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-13T21:37:30.456Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-13T21:37:32.525Z"}
+{"level":"verbose","message":"Create pic","timestamp":"2017-12-13T21:37:32.567Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-13T21:37:32.684Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-13T21:37:32.689Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-13T21:37:47.158Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-13T21:37:47.716Z"}
+{"level":"info","message":"HTTP Server listening on port: 5000, in development mode","timestamp":"2017-12-13T21:37:47.741Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-13T21:37:47.796Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-13T21:37:55.688Z"}
+{"level":"verbose","message":"Create pic","timestamp":"2017-12-13T21:37:55.726Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-13T21:37:55.788Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-13T21:37:55.827Z"}
+{"level":"verbose","message":"Upload file for pic 5a319db33517af2a14bbdad1 and 5a2daa062c8da428882a3aaa","timestamp":"2017-12-13T21:37:55.903Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-13T21:39:00.239Z"}
+{"level":"verbose","message":"Get all galleries for 5a2daa062c8da428882a3aaa","timestamp":"2017-12-13T21:39:00.241Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-13T21:39:09.834Z"}
+{"level":"verbose","message":"Create pic","timestamp":"2017-12-13T21:39:09.836Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-13T21:39:09.869Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-13T21:39:09.919Z"}
+{"level":"verbose","message":"Upload file for pic 5a319dfd3517af2a14bbdad2 and 5a2daa062c8da428882a3aaa","timestamp":"2017-12-13T21:39:10.049Z"}

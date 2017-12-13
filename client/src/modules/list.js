@@ -86,7 +86,7 @@ export class List {
         this.gallery.deleteGallery(gallery._id);
     }	
 	 deleteGalleryPics(id){
-	 	this.gallery.deleteGalleryPics(id);
+	 	this.mypics.deleteGalleryPics(id);
 	 }	
 
 
