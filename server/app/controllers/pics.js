@@ -62,7 +62,7 @@ module.exports = function (app, config) {
             });
         })
     
-    router.get('/pics', requireAuth, function(req,res,next){
+    router.get('/pics', function(req,res,next){
         logger.log('Get all pics');
         var query = User.find()
             .sort(req.query.order)
@@ -88,7 +88,7 @@ module.exports = function (app, config) {
     router.get('/pics/user/:userId', function(req,res,next){
         logger.log('Get all pics for ' + req.params.userId, 'verbose')
 
-        pics.find({userId: req.params.userId})
+        Pics.find({gallery: req.params.userId})
             .then(pics => {
                 if(pics){
                     res.status(200).json(pics);

@@ -73,11 +73,13 @@ export class List {
 	}
 	
 	editGallery(gallery){
+
         this.galleryObj = gallery;
         this.showList = 'galleryForm';
     }
 
-	editMyPic(gallery){
+	async editMyPic(gallery){
+		await this.mypics.getGalleryPics(gallery._id)
 		this.galleryObj = gallery;
 		this.showList = 'picList'
 	}

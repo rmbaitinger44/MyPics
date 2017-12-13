@@ -10,7 +10,7 @@ export class Pics {
    		}   
 
     async getGalleryPics(id){
-        let response = await this.data.get(this.PIC_SERVICE + "/user/gallery" + id);
+        let response = await this.data.get(this.PIC_SERVICE + "/user/" + id);
             if(!response.error && !response.message){
                 this.picArray = response;
             }

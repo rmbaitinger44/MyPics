@@ -11,7 +11,7 @@ var config = {
         uploads: rootPath + "/public/uploads/",       
         secret: "cayennedlikedhistreats"
         },
-
+ 
     test: {
         root: rootPath,
         app: {      name: 'MyPics'},
